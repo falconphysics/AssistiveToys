@@ -8,7 +8,7 @@ At the time of this writing you can purchase a [12 pack of these buttons from Am
  - Solder
  - Hot glue
 ## Tools
- - Philips screw deiver
+ - Philips screwdriver
  - Soldering iron
  - Wirestripper/Cutters
  - Sharp knife
